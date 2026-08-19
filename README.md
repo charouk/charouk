@@ -1,6 +1,6 @@
 - 👋 Hi, I’m iCHRAK BOUBAKRI 
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, NLP
-- 📫 How to reach me : ichrak.enstab@gmail.com or ichrakengineer@gmail.com
+- 📫 How to reach me : ichrak.enstab@gmail.com or ichrak.engineer@gmail.com
 
 
 charouk/charouk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
