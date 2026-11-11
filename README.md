@@ -1,5 +1,5 @@
 Hi, I'm Ichrak Boubakri 👋
-Hydrological forecasting · physics-informed machine learning · Tunis, Tunisia
+Hydrological forecasting · physics-informed ML · differentiable hydrology (HBV, LSTM, CAMELS)· Tunis, Tunisia
 
 I build machine learning models that respect how watersheds store and release water, for catchments where observations are scarce. My work combines deep learning with conceptual and process-based hydrology (HBV, SWAT+).
 
